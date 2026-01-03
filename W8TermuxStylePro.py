@@ -55,7 +55,7 @@ def print_banner():
 ║                                                               ║
 ║              W8TERMUXSTYLEPRO - GENERATOR v3.0                ║
 ║                                                               ║
-║            Create Your Custom Cyberpunk Terminal              ║
+║            Create Your Custom Nurnobipunk Terminal              ║
 ║                                                               ║
 ║          {Colors.GRAY}Credits: W8Team/W8SOJIB{Colors.CYAN}                             ║
 ║    {Colors.GRAY}GitHub: github.com/W8SOJIB/W8TermuxStylePro{Colors.CYAN}             ║
@@ -294,7 +294,7 @@ echo -e "${{RESET}}"
 
 # Subtitle
 echo -e "${{CYAN}}╠═══════════════════════════════════════════════════════════════════════╣${{RESET}}"
-echo -e "${{YELLOW}}               ▰▰▰ ${{WHITE}}ELITE CYBER TERMINAL${{YELLOW}} ▰▰▰${{RESET}}"
+echo -e "${{YELLOW}}               ▰▰▰ ${{WHITE}}ELITE NURNOBI TERMINAL${{YELLOW}} ▰▰▰${{RESET}}"
 echo -e "${{CYAN}}╠═══════════════════════════════════════════════════════════════════════╣${{RESET}}"
 
 # System Info
@@ -812,7 +812,7 @@ echo -e "${{RESET}}"
 
 # Subtitle
 echo -e "${{CYAN}}╠═══════════════════════════════════════════════════════════════════════╣${{RESET}}"
-echo -e "${{{scheme['accent']}}}               ▰▰▰ ${{WHITE}}ELITE CYBER TERMINAL${{{scheme['accent']}}} ▰▰▰${{RESET}}"
+echo -e "${{{scheme['accent']}}}               ▰▰▰ ${{WHITE}}ELITE NURNOBI TERMINAL${{{scheme['accent']}}} ▰▰▰${{RESET}}"
 echo -e "${{CYAN}}╠═══════════════════════════════════════════════════════════════════════╣${{RESET}}"
 
 # System Info
